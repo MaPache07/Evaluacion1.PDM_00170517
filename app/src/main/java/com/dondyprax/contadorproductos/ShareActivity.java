@@ -13,6 +13,7 @@ public class ShareActivity extends AppCompatActivity {
 
     private TextView texto1, texto2, texto3, texto4, texto5, texto6, texto7, texto8, texto9, shareEmail, shareName;
     private Button actionShare;
+    private String msg;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,7 +54,11 @@ public class ShareActivity extends AppCompatActivity {
         actionShare.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent mIntent = new Intent();
+                mIntent.setAction(Intent.ACTION_SEND);
+                mIntent.setType("text/plain");
+                mIntent.putExtra(Intent.EXTRA_TEXT, msg);
+                startActivity(mIntent);
             }
         });
     }

@@ -13,4 +13,5 @@
     <color name="colorProducto8">#006063</color>
     <color name="colorProducto9">#004E43</color>
     <color name="color_black">#000</color>
+    <color name="color_white">#fff</color>
 </resources>

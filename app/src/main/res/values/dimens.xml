@@ -2,4 +2,5 @@
 <resources>
     <dimen name="general_padding">8dp</dimen>
     <dimen name="midium_text">25dp</dimen>
+    <dimen name="product_padding">24dp</dimen>
 </resources>

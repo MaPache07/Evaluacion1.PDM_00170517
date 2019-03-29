@@ -37,9 +37,10 @@
                 android:text="Producto 1"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -60,9 +61,10 @@
                 android:text="Producto 2"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -83,9 +85,10 @@
                 android:text="Producto 3"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -106,9 +109,10 @@
                 android:text="Producto 4"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto4"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -129,9 +133,10 @@
                 android:text="Producto 5"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto5"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -152,9 +157,10 @@
                 android:text="Producto 6"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto6"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -175,9 +181,10 @@
                 android:text="Producto 7"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto7"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -198,9 +205,10 @@
                 android:text="Producto 8"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto8"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
@@ -221,9 +229,10 @@
                 android:text="Producto 9"
                 android:textColor="@color/color_white"/>
             <TextView
+                android:id="@+id/texto9"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="#"
+                android:text="0"
                 android:textSize="@dimen/midium_text"
                 android:textColor="@color/color_white"/>
         </LinearLayout>
